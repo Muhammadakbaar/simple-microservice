@@ -1,2 +1,2 @@
 # simple-microservice
-simple microservice app
+simple microservice app with springboot and postgresql
